@@ -1,0 +1,1 @@
+# Tugas_Teknik_Pengolahan_Citra
